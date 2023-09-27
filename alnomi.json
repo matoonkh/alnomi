@@ -1,0 +1,308 @@
+{
+  "categories": [
+    {
+      "categoryId": 1,
+      "categoryName": "فقہ حنفی",
+      "categoryDescription": "Explore the world of fictional stories.",
+      "categoryColor": "#FF5733",
+      "categoryImage": "http://via.placeholder.com/350x150",
+      "books": [
+        {
+          "bookName": "فقہ حنفی پر اعتراضات کے جوابات",
+          "author": "Author 1",
+          "image_url": "https://ia903407.us.archive.org/31/items/20230926_20230926_1327/__ia_thumb.jpg",
+          "pdf_url": "https://ia803407.us.archive.org/31/items/20230926_20230926_1327/%D9%81%D9%82%DB%81%20%D8%AD%D9%86%D9%81%DB%8C%20%D9%BE%D8%B1%20%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA%20%DA%A9%DB%92%20%D8%AC%D9%88%D8%A7%D8%A8%D8%A7%D8%AA.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "مصنف ابن ابی شیبہ میں امام صاحب سے روایات",
+          "author": "Author 2",
+          "image_url": "https://ia903404.us.archive.org/2/items/20230926_20230926_1338/__ia_thumb.jpg",
+          "pdf_url": "https://ia803404.us.archive.org/2/items/20230926_20230926_1338/%D9%85%D8%B5%D9%86%D9%81%20%D8%A7%D8%A8%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%B4%DB%8C%D8%A8%DB%81%20%D9%85%DB%8C%DA%BA%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%B3%DB%92%20%D8%B1%D9%88%D8%A7%DB%8C%D8%A7%D8%AA.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "نماز پیمبر",
+          "author": "Author 3",
+          "image_url": "https://ia803406.us.archive.org/18/items/20230926_20230926_1703/__ia_thumb.jpg",
+          "pdf_url": "https://ia803406.us.archive.org/18/items/20230926_20230926_1703/%D9%86%D9%85%D8%A7%D8%B2%20%D9%BE%DB%8C%D9%85%D8%A8%D8%B1.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "نماز اہل سنت والجماعت از الیاس گھمن",
+          "author": "Author 3",
+          "image_url": "https://ia804709.us.archive.org/25/items/20230926_20230926_1700/__ia_thumb.jpg",
+          "pdf_url": "https://ia804709.us.archive.org/25/items/20230926_20230926_1700/%D9%86%D9%85%D8%A7%D8%B2%20%D8%A7%DB%81%D9%84%20%D8%B3%D9%86%D8%AA%20%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D8%AA%20%D8%A7%D8%B2%20%D8%A7%D9%84%DB%8C%D8%A7%D8%B3%20%DA%AF%DA%BE%D9%85%D9%86.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "ابو حنیفہ کا عادلانہ دفاع",
+          "author": "Author 4",
+          "image_url": "https://ia904702.us.archive.org/11/items/20230926_20230926_1643/__ia_thumb.jpg",
+          "pdf_url": "https://ia904702.us.archive.org/11/items/20230926_20230926_1643/%D8%A7%D8%A8%D9%88%20%D8%AD%D9%86%DB%8C%D9%81%DB%81%20%DA%A9%D8%A7%20%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D9%86%DB%81%20%D8%AF%D9%81%D8%A7%D8%B9.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "فقہ حنفی قرآن و حدیث کا نچوڑ ہے",
+          "author": "Author 5",
+          "image_url": "https://ia804701.us.archive.org/28/items/20230926_20230926_1245/__ia_thumb.jpg",
+          "pdf_url": "https://ia804701.us.archive.org/28/items/20230926_20230926_1245/%D9%81%D9%82%DB%81%20%D8%AD%D9%86%D9%81%DB%8C%20%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%20%D8%AD%D8%AF%DB%8C%D8%AB%20%DA%A9%D8%A7%20%D9%86%DA%86%D9%88%DA%91%20%DB%81%DB%92.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "بہشتی زیور پر اعتراضات کے جوابات",
+          "author": "Author 6",
+          "image_url": "https://ia802608.us.archive.org/14/items/20230926_20230926_1304/__ia_thumb.jpg",
+          "pdf_url": "https://ia902608.us.archive.org/14/items/20230926_20230926_1304/%D8%A8%DB%81%D8%B4%D8%AA%DB%8C%20%D8%B2%DB%8C%D9%88%D8%B1%20%D9%BE%D8%B1%20%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA%20%DA%A9%DB%92%20%D8%AC%D9%88%D8%A7%D8%A8%D8%A7%D8%AA.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "فتاوٰی عالمگیری پر اعتراضات جوابات",
+          "author": "Author 5",
+          "image_url": "https://ia903405.us.archive.org/0/items/reduced_202309/__ia_thumb.jpg",
+          "pdf_url": "https://ia903405.us.archive.org/0/items/reduced_202309/%D9%81%D8%AA%D8%A7%D9%88%D9%B0%DB%8C%20%D8%B9%D8%A7%D9%84%D9%85%DA%AF%DB%8C%D8%B1%DB%8C%20%D9%BE%D8%B1%20%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA%20%D8%AC%D9%88%D8%A7%D8%A8%D8%A7%D8%AA-Reduced.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "فضائل اعمال پر اعتراضات کا علمی جائزہ",
+          "author": "Author 6",
+          "image_url": "https://ia903407.us.archive.org/23/items/20230926_20230926_1309/__ia_thumb.jpg",
+          "pdf_url": "https://ia803407.us.archive.org/23/items/20230926_20230926_1309/%D9%81%D8%B6%D8%A7%D8%A6%D9%84%20%D8%A7%D8%B9%D9%85%D8%A7%D9%84%20%D9%BE%D8%B1%20%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA%20%DA%A9%D8%A7%20%D8%B9%D9%84%D9%85%DB%8C%20%D8%AC%D8%A7%D8%A6%D8%B2%DB%81.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Extra Books",
+          "author": "Author 6",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Extra Books",
+          "author": "Author 6",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "ترک رفع الیدین",
+      "categoryDescription": "Discover factual and informative books.",
+      "categoryColor": "#4CAF50",
+      "categoryImage": "http://via.placeholder.com/350x150",
+      "books": [
+        {
+          "bookName": "نصر المعبود فی تحقیق حدیث ابن مسعود",
+          "author": "Author 1x",
+          "image_url": "https://ia903401.us.archive.org/0/items/20230926_20230926_1345/__ia_thumb.jpg",
+          "pdf_url": "https://ia903401.us.archive.org/0/items/20230926_20230926_1345/%D8%A7%D8%A8%D9%86%20%D9%85%D8%B3%D8%B9%D9%88%D8%AF%20%D8%AA%D8%B1%DA%A9%20%D8%B1%D9%81%D8%B9%20%D8%A7%D9%84%DB%8C%D8%AF%DB%8C%D9%86.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "تسكين العينين",
+          "author": "Author 2x",
+          "image_url": "https://ia801409.us.archive.org/23/items/89876/__ia_thumb.jpg",
+          "pdf_url": "https://ia601409.us.archive.org/23/items/89876/%D8%AA%D8%B3%D9%83%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%8A%D9%86%2089876.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Book 1x - Non-Fiction",
+          "author": "Author 1x",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Book 2x - Non-Fiction",
+          "author": "Author 2x",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "عقائد",
+      "categoryDescription": "Discover factual and informative books.",
+      "categoryColor": "#4CAF50",
+      "categoryImage": "http://via.placeholder.com/350x150",
+      "books": [
+        {
+          "bookName": "عقائد اہل سنت والجماعت",
+          "author": "Author 11z",
+          "image_url": "https://ia803400.us.archive.org/32/items/20230926_873/__ia_thumb.jpg",
+          "pdf_url": "https://ia803400.us.archive.org/32/items/20230926_873/%D8%B9%D9%82%D8%A7%D8%A6%D8%AF%20%D8%A7%DB%81%D9%84%20%D8%B3%D9%86%D8%AA%20%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D8%AA.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "عقائد الاسلام",
+          "author": "Author 12z",
+          "image_url": "https://ia804709.us.archive.org/2/items/20230926_20230926_1708/__ia_thumb.jpg",
+          "pdf_url": "https://ia904709.us.archive.org/2/items/20230926_20230926_1708/%D8%B9%D9%82%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85.pdf",
+          "details": "urdu",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "قراۃ خلف الامام",
+      "categoryDescription": "Discover factual and informative books.",
+      "categoryColor": "#4CAF50",
+      "categoryImage": "http://via.placeholder.com/350x150",
+      "books": [
+        {
+          "bookName": "Book 1z - Non-Fiction",
+          "author": "Author 11z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Book 2z - Non-Fiction",
+          "author": "Author 12z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "آمین بالجہر",
+      "categoryDescription": "Discover factual and informative books.",
+      "categoryColor": "#4CAF50",
+      "categoryImage": "http://via.placeholder.com/350x150",
+      "books": [
+        {
+          "bookName": "Book 1z - Non-Fiction",
+          "author": "Author 11z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Book 2z - Non-Fiction",
+          "author": "Author 12z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "تراویح",
+      "categoryDescription": "Discover factual and informative books.",
+      "categoryColor": "#4CAF50",
+      "categoryImage": "http://via.placeholder.com/350x150",
+      "books": [
+        {
+          "bookName": "بیس رکعت تراویح",
+          "author": "Author 11z",
+          "image_url": "https://ia801503.us.archive.org/14/items/20230926_20230926_1656/__ia_thumb.jpg",
+          "pdf_url": "https://ia801503.us.archive.org/14/items/20230926_20230926_1656/%D8%A8%DB%8C%D8%B3%20%D8%B1%DA%A9%D8%B9%D8%AA%20%D8%AA%D8%B1%D8%A7%D9%88%DB%8C%D8%AD%20%DA%AF%DA%BE%D9%85%D9%86.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Book 2z - Non-Fiction",
+          "author": "Author 12z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "categoryId": 7,
+      "categoryName": "تقلید",
+      "categoryDescription": "Discover factual and informative books.",
+      "categoryColor": "#4CAF50",
+      "categoryImage": "http://via.placeholder.com/350x150",
+      "books": [
+        {
+          "bookName": "Book 1z - Non-Fiction",
+          "author": "Author 11z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Book 2z - Non-Fiction",
+          "author": "Author 12z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        }
+      ]
+    },
+    {
+      "categoryId": 8,
+      "categoryName": "اعتراضات کے جوابات",
+      "categoryDescription": "Discover factual and informative books.",
+      "categoryColor": "#4CAF50",
+      "categoryImage": "http://via.placeholder.com/350x150",
+      "books": [
+        {
+          "bookName": "غیر مقلدین کے اعتراضات اور انکے جوابات",
+          "author": "Author 11z",
+          "image_url": "https://ia600507.us.archive.org/11/items/20230926_20230926_1320/__ia_thumb.jpg",
+          "pdf_url": "https://ia600507.us.archive.org/11/items/20230926_20230926_1320/%D8%BA%DB%8C%D8%B1%20%D9%85%D9%82%D9%84%D8%AF%DB%8C%D9%86%20%DA%A9%DB%92%20%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "علمائے دیوبند پر علیزئی کے الزامات کے جواب",
+          "author": "Author 12z",
+          "image_url": "https://archive.org/download/20230926_20230926_1333/__ia_thumb.jpg",
+          "pdf_url": "https://ia800506.us.archive.org/16/items/20230926_20230926_1333/%D8%B9%D9%84%D9%85%D8%A7%D8%A6%DB%92%20%D8%AF%DB%8C%D9%88%D8%A8%D9%86%D8%AF%20%D9%BE%D8%B1%20%D8%B9%D9%84%DB%8C%D8%B2%D8%A6%DB%8C%20%DA%A9%DB%92%20%D8%A7%D9%84%D8%B2%D8%A7%D9%85%D8%A7%D8%AA%20%DA%A9%DB%92%20%D8%AC%D9%88%D8%A7%D8%A8.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Book 2z - Non-Fiction",
+          "author": "Author 12z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        },
+        {
+          "bookName": "Book 2z - Non-Fiction",
+          "author": "Author 12z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        }
+      ]
+    }
+  ]
+}
