@@ -3,76 +3,76 @@
         {
             "id": 1,
             "name": "Gul khan",
-            "image": "https://zulkh.github.io/zulkhan/image1.jpg",
+            "image": "https://zulkh.github.io/alnomi/image1.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },
 
           {
             "id": 2,
             "name": "John",
-            "image": "https://zulkh.github.io/zulkhan/image2.jpg",
+            "image": "https://zulkh.github.io/alnomi/image2.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },
           {
             "id": 3,
             "name": "ali",
-            "image": "https://zulkh.github.io/zulkhan/image3.jpg",
+            "image": "https://zulkh.github.io/alnomi/image3.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },
           {
             "id": 4,
             "name": "aliza",
-            "image": "https://zulkh.github.io/zulkhan/image4.jpg",
+            "image": "https://zulkh.github.io/alnomi/image4.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },
           {
             "id": 5,
             "name": "ayesha",
-            "image": "https://zulkh.github.io/zulkhan/image5.jpg",
+            "image": "https://zulkh.github.io/alnomi/image5.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },      
           {
             "id": 6,
             "name": "majid",
-            "image": "https://zulkh.github.io/zulkhan/image6.jpg",
+            "image": "https://zulkh.github.io/alnomi/image6.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },
           
           {
             "id": 7,
             "name": "khan",
-            "image": "https://zulkh.github.io/zulkhan/image7.jpg",
+            "image": "https://zulkh.github.io/alnomi/image7.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },
 
           {
             "id": 8,
             "name": "waseem",
-            "image": "https://zulkh.github.io/zulkhan/image8.jpg",
+            "image": "https://zulkh.github.io/alnomi/image8.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },
           {
             "id": 9,
             "name": "faraz",
-            "image": "https://zulkh.github.io/zulkhan/image9.jpg",
+            "image": "https://zulkh.github.io/alnomi/image9.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },
           {
             "id": 10,
             "name": "zahid",
-            "image": "https://zulkh.github.io/zulkhan/image10.jpg",
+            "image": "https://zulkh.github.io/alnomi/image10.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },
           {
             "id": 11,
             "name": "elia",
-            "image": "https://zulkh.github.io/zulkhan/image11.jpg",
+            "image": "https://zulkh.github.io/alnomi/image11.jpg",
             "timestamp": "2023-10-30T12:00:00"
           },      
           {
             "id": 12,
             "name": "patail",
-            "image": "https://zulkh.github.io/zulkhan/image12.jpg",
+            "image": "https://zulkh.github.io/alnomi/image12.jpg",
             "timestamp": "2023-10-30T12:00:00"
           }
     ]
